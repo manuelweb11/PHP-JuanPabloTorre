@@ -1,21 +1,18 @@
 <?php include 'includes/header.php'; ?>
 
 
+<!-- forma mas habitual de imprimir en php -->
 <?php echo "Hola Mundo1"; ?>
 
-<!-- para dar salto de linea -->
-<br>
+<br><!-- para dar salto de linea -->
 
+<!-- formas de imprimir en php -->
 <?php echo("Hola mundo2");
-
 print("Hola Mundo3");
-
 print "Hola Mundo4";
+print_r("Hola Mundo5");// saber contenido de un arreglo
+var_dump("Hola Mundo6");// ver contenido de variable
 
-// saber contenido de un arreglo
-print_r("Hola Mundo5");
 
-// ver contenido de variable
-var_dump("Hola Mundo6");
 
  'includes/footer.php';  ?>

@@ -19,7 +19,7 @@ echo "<br>";
 echo $numero1/$numero2;
 echo "<br>";
 
-// Multiplicar cierta cantidad
+// Multiplicar cierta cantidad  | 2 elevado al cubo
 echo 2 ** 3;
 
 

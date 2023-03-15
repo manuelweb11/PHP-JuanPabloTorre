@@ -27,7 +27,7 @@ var_dump($numero2 === $numero4);
 echo "<br>";
 
 // spaceship
-//-1 si izquierdaes menor,0 ssi es igual ,1 si izquierda es mayor
+//-1 si izquierda es menor,0 ssi es igual ,1 si izquierda es mayor
 
 // Si el primer valor es mayor que el segundo, el resultado será 1.
 // Si el primer valor es igual al segundo, el resultado será 0.
